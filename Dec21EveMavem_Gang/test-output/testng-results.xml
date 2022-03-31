@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="5" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-26T08:56:44 IST" name="SuiteTestNGRegularExpression" finished-at="2022-03-26T08:56:44 IST" duration-ms="68">
+    <groups>
+      <group name="firefox.smoke">
+        <method signature="TestNGRegularExpression.w15()[pri:0, instance:testNGgrouping.TestNGRegularExpression@71def8f8]" name="w15" class="testNGgrouping.TestNGRegularExpression"/>
+      </group> <!-- firefox.smoke -->
+    </groups>
+    <test started-at="2022-03-26T08:56:44 IST" name="TestTestNGRegularExpression" finished-at="2022-03-26T08:56:44 IST" duration-ms="68">
+      <class name="testNGgrouping.TestNGRegularExpression">
+        <test-method signature="w15()[pri:0, instance:testNGgrouping.TestNGRegularExpression@71def8f8]" started-at="2022-03-26T08:56:44 IST" name="w15" finished-at="2022-03-26T08:56:44 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- w15 -->
+      </class> <!-- testNGgrouping.TestNGRegularExpression -->
+    </test> <!-- TestTestNGRegularExpression -->
+  </suite> <!-- SuiteTestNGRegularExpression -->
+</testng-results>

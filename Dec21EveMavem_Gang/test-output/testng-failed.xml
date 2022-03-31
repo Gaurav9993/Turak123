@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SuiteFaildCaseSenario]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="TestFaildCaseSenario(failed)">
+    <classes>
+      <class name="testNGPracice.TestSuite1">
+        <methods>
+          <include name="t4"/>
+          <include name="t2"/>
+        </methods>
+      </class> <!-- testNGPracice.TestSuite1 -->
+    </classes>
+  </test> <!-- TestFaildCaseSenario(failed) -->
+</suite> <!-- Failed suite [SuiteFaildCaseSenario] -->
